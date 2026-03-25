@@ -3,7 +3,7 @@
 <img width="927" height="1038" alt="image" src="https://github.com/user-attachments/assets/49585bc1-1b81-484d-97e0-d97907d6c80d" />
 
 
-onlineGDB link : <a href="https://onlinegdb.com/Otax-ObtA" target="_blank">Calculator</a>
+onlineGDB link : <a href="https://onlinegdb.com/Otax-ObtA">Calculator</a>
 
 ## 📌 Overview
 
